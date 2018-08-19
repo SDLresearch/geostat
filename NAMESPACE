@@ -1,0 +1,13 @@
+exportPattern("^[[:alpha:]]+")
+
+import(shiny)
+import(pastecs)
+import(shinydashboard)
+import(shinyjs)
+import(sp)
+import(gstat)
+import(rgdal)
+import(raster)
+import(reshape2)
+import(rsm)
+import(plyr)

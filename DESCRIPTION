@@ -1,0 +1,18 @@
+Package: geoestadistica
+Version: 1.0.0
+Date: 2018-08-19
+Title: Ferramentas de Geoestatistica
+Description: Geoestadistica: es un programa realizado para estudiantes y profesores
+              interesados en fenomenos espaciales.
+Author: Santiago Diaz
+Maintainer: The package maintainer <santidilo2@shotmail.com>
+SystemRequirements: 'shiny' con 'gstat'
+Depends: R (>= 2.8.0), shiny, pastecs, shinydashboard, shinyjs, sp,
+        gstat, rgdal, raster, reshape2, rsm, plyr
+Suggests: devtools
+License: GPL (>=3)
+LazyData: true
+URL:
+BUgReports:
+ROxygenNOte: 6.0.1
+Built: R 3.4.3; ; 2018-08-19 16:42:01 UTC; windows
